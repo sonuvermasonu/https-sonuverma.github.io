@@ -116,4 +116,6 @@ Thanks for stopping by. Feel free to fork this project, raise issues, or drop a 
 ---
 
 > Built with ❤️ by **Sonu Verma**
-
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
