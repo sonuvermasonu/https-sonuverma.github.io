@@ -1,4 +1,3 @@
-
 # 🚀 Sonu Verma Sr. Data Research Analyst | Business Analyst Portfolio
 
 <img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a09a1dbe-5053-4ba0-8979-357db3640367" />
